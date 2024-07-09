@@ -1,2 +1,6 @@
 # dirs
 /*/*/build/
+
+*build-*
+build-*
+build/
